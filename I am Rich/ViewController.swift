@@ -16,10 +16,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    func tryFunc(){
+    func try1(){
         print("this is try function")
         print("i am beautiful")
         print("I want to change")
+    }
+    
+    func try2(){
+        print("this is try2 function")
     }
 
 
