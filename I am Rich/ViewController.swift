@@ -28,12 +28,17 @@ class ViewController: UIViewController {
 
     func try3(){
         print("this is try3 function")
+    }
     func try4(){
         print("this is try4 function")
     }
 
     func try5(){
         print("this is try5 function")
+    }
+    
+    func try6(){
+        print("this is try6 function")
     }
 }
 
