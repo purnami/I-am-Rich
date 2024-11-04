@@ -26,6 +26,9 @@ class ViewController: UIViewController {
         print("this is try2 function")
     }
 
+    func try4(){
+        print("this is try4 function")
+    }
 
 }
 
