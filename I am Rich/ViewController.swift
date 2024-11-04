@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     
     func tryFunc(){
         print("this is try function")
+        print("i am beautiful")
     }
 
 
