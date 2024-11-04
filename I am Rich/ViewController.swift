@@ -22,6 +22,9 @@ class ViewController: UIViewController {
         print("I want to change")
     }
 
+    func try3(){
+        print("this is try3 function")
+    }
 
 }
 
